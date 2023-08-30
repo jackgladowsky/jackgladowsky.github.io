@@ -5,15 +5,15 @@ description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
   with a focus on personal sites that are meant to impress.
 hide_description: true
-redirect_from:
-  - /download/
+#redirect_from:
+#  - /
 ---
 
-# About
+# About Me
 
 <!--author-->
 
-## Hydejack
+## Jack Gladowsky
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}
