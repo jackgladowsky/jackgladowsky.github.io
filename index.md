@@ -16,12 +16,9 @@ at [Northeastern University](https://www.northeastern.edu/) where I study Comput
 I am extremly interested in **Embedded Hardware and Software** and am seeking co-op opportunities 
 for Spring 2024. 
 
-For the last 8 months, I worked as a Quality Engineering co-op at [Lumicell Inc.](https://lumicell.com/),
-where I authored numerous software design lifecycle deliverables such as software verification/validation, 
-conducted usability sessions to gather and analyze data on the reproccesing workflow, and also executed several
-hardware protocols to verify that our test protocols were being executed properly and gathering the necessary data.
+I created this website as a portfolio/resume/blog to talk about my past experiences and projects!
 
-I am also an active member of [NURobotics](https://web.northeastern.edu/nurobotics/) where I was the lead electrical engineering on Project Mitosis, a fully 3D printed 3D printer, and also the lab manager where we took care of the 3D printers and other tools the club had to offer. 
+Please check out my [Resume](/resume/) and my [Project Portfolio](/portfolio/).
 
 --- 
 This is a work in progress. Check back shortly :)
