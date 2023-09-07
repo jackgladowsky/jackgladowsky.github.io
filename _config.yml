@@ -54,6 +54,14 @@ menu:
     url:               /portfolio/
   - title:             Resume
     url:               /resume/
+  #- title:             Robot Arm
+  #  url:               /robot-arm/
+  #- title:             Mitosis
+  #  url:               /mitosis/
+  #- title:             SmartSoles
+  #  url:               /smartsoles/
+  #- title:             Redz Skis
+  #  url:               /redz-skis/
 
 
 # Add links to the footer.
@@ -63,6 +71,8 @@ legal:
     url:               /LICENSE/
   - title:             NOTICE
     url:               /NOTICE/
+  - title:             RESUME
+    url:               /assets/pdf/Jack Gladowsky Resume General.pdf/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2021. All rights reserved.
@@ -74,6 +84,8 @@ permalink:             /:categories/:year-:month-:day-:title/
 paginate:              10
 paginate_path:         /:num/
 
+# Favicon
+favicon: /assets/img/jack-gladowsky-linkedin.jpg
 
 # Theme
 # ---------------------------------------------------------------------------------------
@@ -168,7 +180,7 @@ kramdown:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-# google_analytics:      UA-XXXXXXXX-X
+google_analytics:      UA-G-5H8GFY6SXZ
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.

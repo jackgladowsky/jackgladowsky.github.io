@@ -13,7 +13,7 @@ Northeastern University, Boston, MA
 Relevant Coursework: Embedded Design, Computing Fundamentals, Digital Design, Circuits and Signals, Physics 1 and 2, 
 Differential Equations.
 
-### Engineering Work Experience
+### Engineering Experience
 ---
 *January 2023 - August 2023*  
 **Quality Engineering Co-op**   

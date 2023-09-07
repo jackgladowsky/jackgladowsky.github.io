@@ -20,5 +20,5 @@ I created this website as a portfolio/resume/blog to talk about my past experien
 
 Please check out my [Resume](/resume/) and my [Project Portfolio](/portfolio/).
 
---- 
-This is a work in progress. Check back shortly :)
+[Download a copy of my resume.](/assets/pdf/Jack%20Gladowsky%20Resume%20General.pdf)
+
